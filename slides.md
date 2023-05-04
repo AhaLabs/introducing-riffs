@@ -140,4 +140,4 @@ them and is called for each of them.
 
 &nbsp;
 
-See how easy it is to combine multiple Riffs in the [Smart Deploy codebase](https://github.com/TENK-DAO/smart-deploy/tree/feat/loam/crates/smartdeploy)
+See how easy it is to combine multiple Riffs in the [Smart Deploy codebase](https://github.com/TENK-DAO/smart-deploy/tree/main/crates/smartdeploy)
