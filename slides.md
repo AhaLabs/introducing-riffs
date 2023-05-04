@@ -138,9 +138,6 @@ them and is called for each of them.
 
 # A larger example
 
+&nbsp;
+
 See how easy it is to combine multiple Riffs in the [Smart Deploy codebase](https://github.com/TENK-DAO/smart-deploy/tree/feat/loam/crates/smartdeploy)
-
----
-layout: end
----
-
